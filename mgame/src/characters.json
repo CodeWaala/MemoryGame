@@ -3,24 +3,72 @@
     "id": 1,
     "name": "SpongeBob",
     "image":
-      "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+      "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png"
   },
   {
     "id": 2,
     "name": "Mr. Krabs",
     "image":
-      "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+      "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
   },
   {
     "id": 3,
     "name": "Squidward",
     "image":
-      "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+      "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626"
+  },
+  {
+    "id": 4,
+    "name": "Patrick",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebob/images/3/33/Patrick_Star.svg/revision/latest/scale-to-width-down/148?cb=20100724183918"
+  },
+  {
+    "id": 5,
+    "name": "Sandy Cheeks",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebob/images/a/a0/Sandy_Cheeks.svg/revision/latest/scale-to-width-down/143?cb=20100920201409"
+  },
+  {
+    "id": 6,
+    "name": "Mrs Puff",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebob/images/0/0d/SpongeBob_SquarePants_Mrs._Puff_Character_Image_Nickelodeon_Painted_Version.png/revision/latest/scale-to-width-down/185?cb=20151225034239"
+  },
+  {
+    "id": 7,
+    "name": "Pearl Krabs",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebob/images/8/8e/Pearl_Krabs.svg/revision/latest/scale-to-width-down/164?cb=20101018162215"
+  },
+  {
+    "id": 8,
+    "name": "Gary the Snail",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebob/images/8/81/Gary_the_Snail.svg/revision/latest/scale-to-width-down/233?cb=20100922010234"
+  },
+  {
+    "id": 9,
+    "name": "Sheldon",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebob/images/2/22/Sheldon_Plankton.svg/revision/latest/scale-to-width-down/78?cb=20100921021913"
+  },
+  {
+    "id": 10,
+    "name": "Karen",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebob/images/2/2e/Karen_Plankton.svg/revision/latest/scale-to-width-down/273?cb=20100923051438"
+  },
+  {
+    "id": 11,
+    "name": "Mermain Man",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebob/images/b/b7/Mermaid_Man.svg/revision/latest/scale-to-width-down/134?cb=20101117023210"
+  },
+  {
+    "id": 12,
+    "name": "Barnacle Boy",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebob/images/2/2e/Barnacle_Boy.png/revision/latest/scale-to-width-down/79?cb=20161119062731"
   }
 ]

@@ -1,13 +1,14 @@
 import React from "react";
+import "./navbar.css"
 
 const Nav = props => (
-  <nav class="navbar">
+  <nav className="navbar">
     <ul>
-      <li class="brand">
+      <li className="brand">
         <a href="/">Clicky Game</a>
       </li>
-      <li class="">You guessed correctly!</li>
-      <li>Score: 2 | Top Score: 9</li>
+      <li className="">{props.answerresponse}</li>
+      <li>Score: {props.score} | Top Score: {props.highscore}</li>
     </ul>
   </nav>
 );

@@ -12,8 +12,8 @@ import "./imagecard.css";
 
 const ImageCard = props => (
   <div className="card">
-    <div className="img-container" key={props.key}>
-      <img alt={props.name} src={props.image} />
+    <div className="img-container" onClick={props.ClickHandler}>
+      <img alt={props.name} id={props.key} key={props.key} src={props.image} index={props.index} />
     </div>
   </div>
 );
