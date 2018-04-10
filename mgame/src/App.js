@@ -24,6 +24,11 @@ class App extends Component {
       // This binding is necessary to make `this` work in the callback
       //this.handleClick = this.handleClick.bind(this);
     };
+    this.handleClick = this.handleClick.bind(this);
+    this.updateAnswerResponse = this.updateAnswerResponse.bind(this);
+    this.updateClickedIds = this.updateClickedIds.bind(this);
+    this.updateImages = this.updateImages.bind(this);
+    this.updateScore = this.updateScore.bind(this);
   }
 
   updateScore = () => {
